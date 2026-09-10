@@ -1,0 +1,23 @@
+{
+  "name": "Keystone habits",
+  "short_name": "Keystones",
+  "description": "Paper-clip jar scoreboard for five daily keystone habits.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#d8c4a4",
+  "theme_color": "#d8c4a4",
+  "icons": [
+    {
+      "src": "./apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
